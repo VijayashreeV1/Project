@@ -1,2 +1,2 @@
-# Project
-Projects that I have done 
+# Project - Django 
+Django project to manage contacts
